@@ -1,2 +1,2 @@
-# weatherclear-api
+# WeatherClear-api
 Testing api codes
